@@ -6,3 +6,5 @@ Green
 Yellow
 Red
 Blue
+Purple
+Orange
